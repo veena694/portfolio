@@ -1,5 +1,7 @@
 import React from 'react';
 import { Award, Monitor, Code, Palette } from 'lucide-react';
+import resumeFile from './resume.pdf';
+
 
 const About: React.FC = () => {
   return (
@@ -65,13 +67,14 @@ const About: React.FC = () => {
             </div>
             
             <a 
-              href="/resume.pdf" 
-              className="inline-flex items-center px-6 py-3 bg-blue-600 text-white font-medium rounded-lg hover:bg-blue-700 transition-colors"
-              target="_blank" 
-              rel="noopener noreferrer"
-            >
-              Download Resume
-            </a>
+  href={resumeFile} 
+  className="inline-flex items-center px-6 py-3 bg-blue-600 text-white font-medium rounded-lg hover:bg-blue-700 transition-colors"
+  target="_blank" 
+  rel="noopener noreferrer"
+>
+  Download Resume
+</a>
+
           </div>
         </div>
       </div>
