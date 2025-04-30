@@ -16,7 +16,7 @@ const Hero: React.FC = () => {
   return (
     <section 
       id="hero" 
-      className="min-h-screen flex items-center relative bg-gradient-to-br from-blue-50 to-indigo-50 overflow-hidden"
+      className="min-h-screen flex items-center relative bg-gradient-rainbow overflow-hidden"
     >
       <div className="absolute inset-0">
         <div className="absolute top-20 right-10 w-40 h-40 bg-blue-200 rounded-full mix-blend-multiply filter blur-xl opacity-70 animate-blob"></div>
