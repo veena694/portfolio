@@ -69,16 +69,16 @@ export default {
       lineHeight: {
         'extra-tight': '1.1',
       },
-      backgroundImage: {
-    'gradient-rainbow': 'linear-gradient(90deg, #ff0080, #7928ca, #2afadf)',
-    'gradient-sunset': 'linear-gradient(135deg, #ff9a9e, #fad0c4)',
-    'gradient-aqua': 'linear-gradient(to right, #209cff, #68e0cf)',
-    'gradient-neon': 'linear-gradient(to right, #f953c6, #b91d73)',
-    'gradient-lime-blue': 'linear-gradient(to right, #a8ff78, #78ffd6)',
-  },
       borderRadius: {
         'xl': '1rem',
         '2xl': '1.5rem',
+      },
+      backgroundImage: {
+        'gradient-rainbow': 'linear-gradient(90deg, #ff0080, #7928ca, #2afadf)',
+        'gradient-sunset': 'linear-gradient(135deg, #ff9a9e, #fad0c4)',
+        'gradient-aqua': 'linear-gradient(to right, #209cff, #68e0cf)',
+        'gradient-neon': 'linear-gradient(to right, #f953c6, #b91d73)',
+        'gradient-lime-blue': 'linear-gradient(to right, #a8ff78, #78ffd6)',
       },
     },
   },
