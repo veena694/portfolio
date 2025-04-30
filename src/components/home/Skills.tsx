@@ -55,7 +55,7 @@ const Skills: React.FC = () => {
     <section id="skills" className="py-20 bg-white">
       <div className="container mx-auto px-4 md:px-6">
         <div className="max-w-3xl mx-auto text-center mb-16">
-          <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">My Skills</h2>
+          <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Skills</h2>
           <div className="w-16 h-1 bg-blue-600 mx-auto mb-6"></div>
           <p className="text-lg text-gray-600">
             I've developed a comprehensive skill set throughout my journey as a developer. Here's an overview of my technical expertise.
