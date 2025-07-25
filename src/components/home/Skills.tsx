@@ -7,7 +7,6 @@ const skillCategories = [
       { name: 'JavaScript', level: 90 },
       { name: 'C++', level: 85 },
       { name: 'Java', level: 80 },
-      { name: 'Python', level: 75 },
       { name: 'C', level: 75 },
     ]
   },
@@ -25,7 +24,6 @@ const skillCategories = [
     title: 'Databases & Tools',
     skills: [
       { name: 'MongoDB', level: 85 },
-      { name: 'MySQL', level: 80 },
       { name: 'Git', level: 90 },
       { name: 'VS Code', level: 90 },
       { name: 'GitHub', level: 85 },
